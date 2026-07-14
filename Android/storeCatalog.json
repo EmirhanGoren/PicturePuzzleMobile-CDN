@@ -1,0 +1,11 @@
+{
+    "packs": [
+        {
+            "packID": "pack_cats_01",
+            "packName": "Sevimli Kediler",
+            "price": 200,
+            "coverImageUrl": "https://ornek.com/kedi_kapak.jpg",
+            "levels": []
+        }
+    ]
+}
