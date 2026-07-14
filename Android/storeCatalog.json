@@ -4,8 +4,25 @@
             "packID": "pack_cats_01",
             "packName": "Sevimli Kediler",
             "price": 200,
-            "coverImageUrl": "https://ornek.com/kedi_kapak.jpg",
-            "levels": []
+            "coverImageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_cover.jpg",
+            "levels": [
+                {
+                    "levelIndex": 1,
+                    "gridSize": 3,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_1.jpg"
+                },
+                {
+                    "levelIndex": 2,
+                    "gridSize": 3,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_2.jpg"
+                },
+                {
+                    "levelIndex": 3,
+                    "gridSize": 4,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_3.jpg"
+                }
+                // ... Bu şekilde 20. resme kadar kopyalayıp doldurmalısın.
+            ]
         }
     ]
 }
