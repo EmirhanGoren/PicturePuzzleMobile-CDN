@@ -8,20 +8,104 @@
             "levels": [
                 {
                     "levelIndex": 1,
-                    "gridSize": 3,
+                    "gridSize": 2,
                     "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_1.jpg"
                 },
                 {
                     "levelIndex": 2,
-                    "gridSize": 3,
+                    "gridSize": 2,
                     "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_2.jpg"
                 },
                 {
                     "levelIndex": 3,
-                    "gridSize": 4,
+                    "gridSize": 2,
                     "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_3.jpg"
                 }
-                // ... Bu şekilde 20. resme kadar kopyalayıp doldurmalısın.
+                {
+                    "levelIndex": 4,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_4.jpg"
+                },
+                {
+                    "levelIndex": 5,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_5.jpg"
+                },
+                {
+                    "levelIndex": 6,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_6.jpg"
+                },
+                {
+                    "levelIndex": 7,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_7.jpg"
+                },
+                {
+                    "levelIndex": 8,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_8.jpg"
+                },
+                {
+                    "levelIndex": 9,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_9.jpg"
+                },
+                {
+                    "levelIndex": 10,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_10.jpg"
+                },
+                {
+                    "levelIndex": 11,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_11.jpg"
+                },
+                {
+                    "levelIndex": 12,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_12.jpg"
+                },
+                {
+                    "levelIndex": 13,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_13.jpg"
+                },
+                {
+                    "levelIndex": 14,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_14.jpg"
+                },
+                {
+                    "levelIndex": 15,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_15.jpg"
+                },
+                {
+                    "levelIndex": 16,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_16.jpg"
+                },
+                {
+                    "levelIndex": 17,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_17.jpg"
+                },
+                {
+                    "levelIndex": 18,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_18.jpg"
+                },
+                {
+                    "levelIndex": 19,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_19.jpg"
+                },
+                {
+                    "levelIndex": 20,
+                    "gridSize": 2,
+                    "imageUrl": "https://emirhangoren.github.io/PicturePuzzleMobile-CDN/Android/Packs/Cats/cat_20.jpg"
+                },
             ]
         }
     ]
